@@ -2,7 +2,7 @@
 
 ----
 
-### Made by Team Yagodki
+### Made by Team 8
 
 - Alexander Angelov - RapGeneral
 - Alexander Bozhinov
@@ -36,5 +36,5 @@ We are aiming to create a movie database
 ### Repository [repo]
 ### Trello [trello]
 
-[repo]: https://gitlab.com/RapGeneral/nazovenoimdb.git
-[trello]: https://trello.com/invite/b/x9KipY89/51d2f7e9640728ecb123e38f528811d2/imdb
+[repo]: https://github.com/RapGeneral/MyIMDB
+[trello]: https://trello.com/b/x9KipY89
